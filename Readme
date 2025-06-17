@@ -298,7 +298,7 @@ npm run deploy:gcp      # Google Cloud deployment
 npm run deploy:vercel   # Vercel deployment
 ```
 
-**Live Demo**: [https://lifesync-demo.vercel.app](https://lifesync-demo.vercel.app)
+**Live Demo**: [https://lifesync-demo.vercel.app](https://kdcodes23.github.io/MoodFlow/)
 
 ---
 
